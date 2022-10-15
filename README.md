@@ -1,6 +1,6 @@
 # Ruby Hashes Playground
 
-There is an accompanying video for this playground at on my YouTube channel [_splat_bang_](https://youtu.be/-KHz2Ry2wHw).
+There is an accompanying video for this playground on my YouTube channel [_splat_bang_](https://youtu.be/-KHz2Ry2wHw).
 
 ## How to use
 
